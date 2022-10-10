@@ -1,0 +1,9 @@
+Run
+docker compose up
+
+
+
+https://medium.com/geekculture/how-to-dockerize-a-python-script-b0af3cd11fb0
+
+export PATH="$PATH:/Applications/Docker.app/Contents/Resources/bin/"
+
